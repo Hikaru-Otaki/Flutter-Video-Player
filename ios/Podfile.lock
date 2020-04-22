@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - media_player (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - media_player (from `.symlinks/plugins/media_player/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  media_player:
+    :path: ".symlinks/plugins/media_player/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  media_player: e77cd1f9de2bb1dbddb078aeda25b733c26d019e
+
+PODFILE CHECKSUM: 083258d7f5e80b42ea9bfee905fe93049bc04c64
+
+COCOAPODS: 1.9.0.beta.3
